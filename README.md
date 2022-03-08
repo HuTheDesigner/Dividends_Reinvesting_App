@@ -1,2 +1,2 @@
-# Project_1
-Project on Dividends Reinvesting
+# Project1
+Re investing dividends from stocks 
